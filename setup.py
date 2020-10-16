@@ -7,7 +7,7 @@ requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 
 setup(
     name="neurosystems",
-    version="0.0.2",
+    version="0.0.3",
     author="Ismael Jaras",
     author_email="is.jaras@gmail.com",
     description="A package containing all Neurosistemas Lab's codes",
