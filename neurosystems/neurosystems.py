@@ -1,4 +1,4 @@
-def tets(my_name):
+def hope(my_name):
     """
     Print a line for testing package import
     Args:
